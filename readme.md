@@ -39,7 +39,7 @@ git clone https://github.com/sasaaarch/bot1/blob/master/readme.md
 1. Saat Anda mendapatkan kode sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau command prompt:
 
 ```bash
-cd /halaman/mengarah/ke/Experimental-Bell
+cd bot1
 ```
 
 ```bash
