@@ -29,7 +29,7 @@ apt install git
 5. Cloning repo
 
 ```bash
-git clone https://github.com/Rifza123/Experimental-Bell.git
+git clone https://github.com/sasaaarch/bot1/blob/master/readme.md
 ```
 
 ## Cara Pasang
